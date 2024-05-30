@@ -72,6 +72,10 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
+## 🎒 Образование
+[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
+[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](file:///C:/Users/user/Desktop/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2.png)
+
 
 
 
